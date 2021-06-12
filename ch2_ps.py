@@ -28,4 +28,10 @@ a3= int(a3)
 avg=(a2 + a3)/2
 print("The average of the two numbers you entered is", avg)
 
+# ques. 6
+enter= input("What no. you want to find the square of?")
+enter= int(enter)
+squared= enter*enter
+print("The number you asked for a square of is ready with it's square,", enter, "square is", squared)
+
 
