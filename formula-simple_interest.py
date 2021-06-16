@@ -1,8 +1,0 @@
-p=input("enter value of p :")
-p=int(p)
-r=input("enter value of p :")
-r=int(r)
-t=input("enter value of p :")
-t=int(t)
-print("Here is answer for you : ")
-print(p*r*t*1/100)
