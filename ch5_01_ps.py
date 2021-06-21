@@ -1,6 +1,7 @@
 translationdictionary= {
     "Moorti" : "Statue",
     "Kursi" : "Chair",
+    "Aakash" : "Sky",
     "Kitab" : "Book",
 }
 
