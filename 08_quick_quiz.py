@@ -3,7 +3,7 @@
 # the above code is written by me
 
 def greet(name):
-    return ("Good day " + name)
+    print("Good day " + name) 
+    
+greet("dadi")
 
-greeting=greet("dadi")
-print(greeting)

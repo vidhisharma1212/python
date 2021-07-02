@@ -18,5 +18,5 @@ print(story.capitalize())
 print(story.find("loved"))
 print(story.find("lovd")) # -1 = not there
 
-#  6. replace- replaces..
+#  6. replace- replaces.. all occurances
 print(story.replace("loved" , "was thrilled by studying "))

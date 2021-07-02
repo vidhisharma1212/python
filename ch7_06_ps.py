@@ -3,7 +3,7 @@
 # 5!= 1 X 2 X 3 X 4 X 5 = 1x 120= 120
 # 2! = 1 X 2 = 2
 
-n= int(input("Enter the numbere here : \n"))
+n= int(input("Enter the number here : \n"))
 
 factorial= 1
 for i in range(1, n+1):

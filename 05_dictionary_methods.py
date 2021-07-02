@@ -7,17 +7,18 @@ myDictionary = {
 }
 
 # Dictionary methods
-# print(type(myDictionary.keys())) # Printing keys of the dictionary
-# print(list(myDictionary.keys())) # Printing keys of the dictionary
-# print(myDictionary.values()) # Printing values of the dictionary
-# print(myDictionary.items()) # Printing keys and values together of the dictionary , gives a tuple
+print(type(myDictionary.keys())) # Printing keys of the dictionary
+print(list(myDictionary.keys())) # Printing keys of the dictionary
+print(myDictionary.values()) # Printing values of the dictionary
+print(myDictionary.items()) # Printing keys and values together of the dictionary , gives a tuple
 
-# updatedictionary= {
-#     "friend": "a friend"
-# }
-# myDictionary.update(updatedictionary)
-# myDictionary.update({"we" : "people"})
-# print(myDictionary)
+updatedictionary= {
+    "friend": "a friend"
+}
+myDictionary.update(updatedictionary)
+myDictionary.update({"we" : "people"})
+print(myDictionary)
 print(myDictionary.get("fast"))
+
 
 

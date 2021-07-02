@@ -34,4 +34,7 @@ print(b)
 '''
 CLEAR SET
 '''
-print(b.clear())
+print(b.clear()) 
+'''
+INTERSECTION , UNION
+'''

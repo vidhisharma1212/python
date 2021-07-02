@@ -4,11 +4,11 @@ myDictionary = {
     "Score" : [1,2,3,5,],
     "anotherdictionary" : { "phone" : "a device to check mails, calls, etc"}
 }
-# print(myDictionary["Fast"])
+print(myDictionary["Fast"])
 
-# input = input("Enter the word you want to search : ")
-# print(myDictionary[input])
-# print(myDictionary["Score"])
+input = input("Enter the word you want to search : ")
+print(myDictionary[input])
+print(myDictionary["Score"])
 myDictionary["Score"]= [12,33,4,79]
 print(myDictionary["Score"])
 print(myDictionary["anotherdictionary"]["phone"])

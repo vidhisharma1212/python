@@ -10,4 +10,5 @@ a= input("Enter the word you want to translate in english : \n")
 # print("The word you searched for, has a meaning,", translationdictionary[a]) # May throw an error 
 
 # the following throws no error, it just shows none.. use .get()
-print("The word you searched for, has a meaning,", translationdictionary.get(a))
+print("The word you searched for, has a meaning:", translationdictionary.get(a))
+
