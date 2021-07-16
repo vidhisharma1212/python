@@ -1,0 +1,5 @@
+f= open('whyy.txt','r')
+# d= f.read(3)
+data= f.read()
+print(data)
+f.close()
