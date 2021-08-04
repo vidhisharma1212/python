@@ -1,8 +1,8 @@
 here is a computer typing.
-I hope you know that a computer can type
+i hope you know that a computer can type
 how are you?
 this computer can run many softwares in it
-python too
+##### too
 it is a cloudy day
 the rain might pour
 etc etc
